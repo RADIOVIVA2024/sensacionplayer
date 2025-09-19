@@ -1,6 +1,6 @@
 ﻿{
-  "name": "SENSACION FM",
-  "short_name": "SENSACIONFM",
+  "name": "SENSACION-FM",
+  "short_name": "SENSACION-FM",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#28a745",
