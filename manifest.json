@@ -1,0 +1,20 @@
+{
+  "name": "Radio La Sabrosita -106.7 fm",
+  "short_name": "Radio La Sabrosita",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#28a745",
+  "theme_color": "#28a745",
+  "icons": [
+    {
+      "src": "https://i.ibb.co/n7mKdWM/00048bf5-7b4c-402f-88a0-90eb60253204.jpg",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.ibb.co/n7mKdWM/00048bf5-7b4c-402f-88a0-90eb60253204.jpg",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
